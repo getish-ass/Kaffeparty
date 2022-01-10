@@ -1,0 +1,30 @@
+body
+{
+  background-color: #E4CDA7;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.bg-primary
+{
+ background-color: #876445 !important;
+}
+.btn-primary
+{
+background-color: #876445 !important;
+}
+.link-primary
+{
+    color: #876445 !important;
+}
+.border-primary
+{
+    border-color: #876445 !important;
+}
+.footer-style
+{
+    background-color: #CA965C;
+}
+.box-color
+{
+    background-color: #ECB365;
+}
